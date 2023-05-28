@@ -1,6 +1,6 @@
 # CodePulse FREE
 
-![Alt Text](Logo.png)
+![Alt Text](logo.png)
 
 This is a free version of CodePulse, a Python application with various features.
 

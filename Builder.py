@@ -22,7 +22,6 @@ get_os_info_var = BooleanVar()
 inject_discord_var = BooleanVar()
 GetToken = BooleanVar()
 FakeError = BooleanVar()
-StartUp = BooleanVar()
 
 
 def generate_code():

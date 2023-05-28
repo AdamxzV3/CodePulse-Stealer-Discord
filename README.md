@@ -1,8 +1,7 @@
-# CodePulse FREE
+# CodePulse Stealer FREE
 
-![Alt Text](logo.png)
 
-This is a free version of CodePulse, a Python application with various features.
+- This is a free version of CodePulse, a Python application with various features.
 
 ## Features
 
@@ -11,3 +10,8 @@ This is a free version of CodePulse, a Python application with various features.
 - OS Information 🖥️
 - Discord Injection 🎮
 - Get Token 🎫
+
+
+![Alt Text](logo.png)
+![Alt Text](Extra.png)
+![Alt Text](stealer.png)

